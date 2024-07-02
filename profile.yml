@@ -2,8 +2,7 @@
 full_name: John Vu Nguyen
 location: Essex, UK
 summary: >
-  I am an IT professional with more than 18 years of experience in Product and Programme Management. Throughout my career, I have successfully managed and delivered numerous high-profile and scalable products for prominent customers and clients. My expertise spans across Fintech, Communications, and Ed-tech sectors, where I have developed a deep analytical understanding of both operational and technical aspects in both B2B and B2C environments. 
-  I have a proven track record in leading small- and large-scale projects, often managing multiple concurrent initiatives within defined timelines and budgets. My experience includes effectively engaging with stakeholders at all levels, including C-level executives, to ensure alignment and successful outcomes.
+  I am an IT professional with more than 18 years of experience in Product and Programme Management. Throughout my career, I have successfully managed and delivered numerous high-profile and scalable products for prominent customers and clients. My expertise spans across Fintech, Communications, and Ed-tech sectors, where I have developed a deep analytical understanding of both operational and technical aspects in both B2B and B2C environments. I have a proven track record in leading small- and large-scale projects, often managing multiple concurrent initiatives within defined timelines and budgets. My experience includes effectively engaging with stakeholders at all levels, including C-level executives, to ensure alignment and successful outcomes.
 
 
 contact_details:
@@ -25,7 +24,7 @@ experience:
       -	Directed customer documentation drafting for Payments, Payment Operation and Accounts services, enhancing user comprehension.
       - Main point of contact for Customer Success, Accounts, Delivery, and Operations teams, coordinating with key stakeholders both within Form3 and externally to ensure successful collaboration on cross-initiative priorities
       -	Implemented improved working practices between product and engineering teams, fostering trust and collaboration
-      - Managed the product migration of Form3's Payment API from a single API to multiple core payment services as part of the company’s Multi-Cloud initiative
+      - Managed the product migration of Form3's Payment API from a single API to multiple core payment services as part of the company's Multi-Cloud initiative
       - Oversaw the deployment of core services into GCP and other multi-cloud environments, facilitating initial onboarding of clients like Lloyds and NBS
       - Led the migration of core payment services to a multi-cloud environment, ensuring smooth transitions for FPS and COP customer services
       - Developed a strategic roadmap for key services in the business line, integrating multi-cloud support and setting fiscal year budgets
