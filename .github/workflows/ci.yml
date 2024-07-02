@@ -5,7 +5,7 @@ on:
   push:
 
 # env:
-#   CV_FILENAME: J_Codemaster_CV
+#   CV_FILENAME: John_Vu_Nguyen_CV2024
 
 jobs:
   generate:
