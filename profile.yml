@@ -1,122 +1,59 @@
 ---
-full_name: John Vu Nguyen
-location: Essex, UK
+full_name: Johnny Codemaster
+location: Techville, Cybertopia
 summary: >
-  I am an IT professional with more than 18 years of experience in Product and Programme Management. Throughout my career, I have successfully managed and delivered numerous high-profile and scalable products for prominent customers and clients. My expertise spans across Fintech, Communications, and Ed-tech sectors, where I have developed a deep analytical understanding of both operational and technical aspects in both B2B and B2C environments. I have a proven track record in leading small- and large-scale projects, often managing multiple concurrent initiatives within defined timelines and budgets. My experience includes effectively engaging with stakeholders at all levels, including C-level executives, to ensure alignment and successful outcomes.
-
+  Enthusiastic and innovative software developer with a knack for turning caffeine into code.
+  Armed with a wizard's wand (keyboard) and a magical hat (headphones), I've crafted digital
+  wonders for over a decade. My spells range from web enchantments to mobile charms, all sprinkled
+  with a dash of humor and a pinch of pixel-perfect precision. Seeking new quests to conquer
+  and challenges to turn into triumphs.  
 
 contact_details:
-  email: john.nguyen@live.co.uk
-  github: https://github.com/jonnieboi
-  linkedin: https://www.linkedin.com/in/jvunguyen
+  email: johnny@codemaster.me
+  github: https://github.com/johnnycodemaster
+  linkedin: https://www.linkedin.com/in/johnnycodemaster
 
 experience:
-  - title: Senior Product Manager
-    company_name: Form3
-    company_url: https://www.form3.tech
-    dates: 01/2023 - Present
-    location: Remote, London, UK
+  - title: Senior Sorcerer
+    company_name: ByteBlitz Technologies
+    company_url: https://www.byte-blitz.company/
+    dates: 01/2020 - Present
+    location: Remote, Mystical Valley
     bullet_points:
-      -	Successfully balanced responsibilities in both product and programme management roles managing cross team dependencies
-      - Managed the core payment service roadmap, prioritised requirements and change requests based on our resource capacity, and effectively handled complex competing priorities from various stakeholders associated with our business line
-      -	Streamlined management of complex priorities across internal and external stakeholders, identifying and resolving risks
-      -	Reviewed, approved, and documented business requirements for internal/external services, ensuring stakeholder alignment
-      -	Directed customer documentation drafting for Payments, Payment Operation and Accounts services, enhancing user comprehension.
-      - Main point of contact for Customer Success, Accounts, Delivery, and Operations teams, coordinating with key stakeholders both within Form3 and externally to ensure successful collaboration on cross-initiative priorities
-      -	Implemented improved working practices between product and engineering teams, fostering trust and collaboration
-      - Managed the product migration of Form3's Payment API from a single API to multiple core payment services as part of the company's Multi-Cloud initiative
-      - Oversaw the deployment of core services into GCP and other multi-cloud environments, facilitating initial onboarding of clients like Lloyds and NBS
-      - Led the migration of core payment services to a multi-cloud environment, ensuring smooth transitions for FPS and COP customer services
-      - Developed a strategic roadmap for key services in the business line, integrating multi-cloud support and setting fiscal year budgets
-      -	Optimized API proposal review processes and streamlined team backlogs, resulting in enhanced operational efficiency.
+      - Led a team of code crusaders in developing next-gen applications and enchanting user experiences.
+      - Spearheaded the implementation of Agile spellcasting methodologies, resulting in a 30% increase in project efficiency.
+      - Designed and implemented scalable backend architectures using the latest enchanted frameworks.
     keywords:
-      - Communications
-      - Stakeholder management
-      - Process improvement
-      - Risk management
-      - Product management
-      - Programme management
-      - Prioritisation
-      - GitHub
-      - Aha
-      - Agile
-      - Lucid
-  - title: Product Manager Lead
-    company_name: KidsLoop
-    company_url: https://badanamu.com/kidsloop-learning-platform/
-    dates: 08/2021 - 08/2022
-    location: Remote, London, UK
+      - PyroScript
+      - CharmSQL
+      - Mystic Cloud Computing
+  - title: Lead Enchanter
+    company_name: Pixel Potions Ltd
+    company_url: https://www.pixel-potions.company/
+    dates: 01/2018 - 12/2019
+    location: Hybrid, Enchanted Realm
     bullet_points:
-      - Led the product management function, overseeing a team of 5 Product Managers and collaborating cross-functionally with Client Delivery and Sales teams
-        - Managed and mentored product managers within my team and offered guidance to junior members of Kidsloop
-      - Formed new product domain team - Factory Alliance, with the key vision and goal 'Easy and Flexible Integration with Existing Platforms'
-        - Formulated the product vision, strategy and roadmap
-        - Ensured good communication with leadership, across teams and peers
-        - Built out the product function within this domain covering
-          - API Management & Integration
-          - Identity and Access Management
-          - Client Specific Integration
-          - User/Account and Subscription Services
-      - Leadership of the V1 Integration of the KidsLoop primary platform with the MyClassBoard School ERP system
-        - Successfully led the product team function in collaboration with Chrysalis India enabling up to two million students and teachers access to KidsLoop's CLMS
-        - Managed and communicated with stakeholders and partners both internally and externally
+      - Brewed potions (code) to bring stunning visuals and interactive experiences to life.
+      - Led the development of a magical mobile app, garnering 1 million downloads in its first month.
+      - Transformed design mockups into pixel-perfect realities, earning accolades from clients and users alike.
     keywords:
-      - Product management
-      - Leadership
-      - Communication
-      - Stakeholder management
-      - Process improvements
-      - Prioritisation
-      - Risk management
-      - Interdependencies management
-      - Jira
-      - Miro
-      - Confluence
-      - agile
-  - title: Senior Product Manager
-    company_name: Azimo
-    company_url: https://www.azimo.com/
-    dates: 05/2020 - 08/2021
-    location: Remote, London, UK
+      - SorceryScript
+      - EnchantedReact
+      - PotionStyles
+      - Mystical Firebase
+  - title: Software Alchemist
+    company_name: Data Dwarves Inc
+    company_url: https://www.data-dwarves.company/
+    dates: 01/2016 - 12/2017
+    location: Remote, Arcane Forest
     bullet_points:
-      - Responsible for the customer payments experience and Azimo's global rollout roadmap
-      - Formed a new Product and delivery team 'Increase Funded Transfers & Internationalisation'
-        - Focused on reducing unfunded payments and expanding Azimo's network in new markets by setting clear OKRs
-        - Developed and managed the product roadmap, identifying and achieving key quarterly OKRs through data-driven planning
-          - Leveraged key data and metrics to develop innovative features, improving user experience and engagement
-        - Empowered the team to prototype and integrate new payment methods, resulting in increased transaction success rates
-      - Successfully launched first MVP of Open Banking for the UK market, enhancing payment options for users
-        - Addressing 8% (530 transactions) increase in monthly funded transactions for UK send country
-        - Projected additional revenue of £128k in first 12 months of launch
-      -	Launched Trustly Instant bank transfer in the Nordics and Europe, increasing customer satisfaction and transaction speed
-        - Introduced an alternative payment method in the Nordic region, diversifying payment options beyond traditional card solutions
-        - Forecasted additional revenue of £86k per year through strategic implementation of new payment solutions
-      - Successfully launched Azimo in Canada, expanding market presence and increasing transaction volume
-        - Integrated Interac E-Transfer service and enabled KYC capabilities with Onfido, improving customer onboarding and transaction security
-        - Achieved a 230 transaction increase per month globally in the first quarter, forecasting £240k revenue in the first 12 months through targeted growth strategies
-      -	Developed and launched an internal compliance and payment operations tool, streamlining processes and enhancing efficiency
-        - 3DS toggling capability
-        - Saved 2000 impacted transactions monthly, significantly increasing successful card transactions in the Italy market
-      - Successfully launched Azimo in Australia
-        - Expanded Azimo into the Australian market, enabling customers to send money to over 200 countries, boosting market penetration
-        - Achieved a 2300 transaction increase per month globally in the first quarter, driving significant revenue growth
-      - Successfully migrated Dalensys Payments to Checkout for French card-paying customers, improving transaction efficiency
-        - Processed over 50K transactions in Q1 2021, resulting in substantial cost savings and operational efficiency.
+      - Transmuted data into digital gold, crafting robust backend systems and arcane algorithms.
+      - Implemented machine learning spells to uncover hidden insights in vast datasets, driving business growth.
+      - Mentored apprentice alchemists, guiding them in the ways of data sorcery and software alchemy.
     keywords:
-      - Communications
-      - Stakeholder management
-      - Process improvement
-      - Risk management
-      - Product management
-      - Project management
-      - Prioritisation
-      - Risk management
-      - Interdependencies management
-      - Jira
-      - Miro
-      - Confluence
-      - agile
-      - domo
+      - ElixirCraft
+      - AlchemyTensor
+      - Potion Pandas
   - title: Frontend Wizard
     company_name: Code Kingdoms Corp
     company_url: https://www.code-kingdoms.company/
@@ -147,9 +84,9 @@ experience:
       - MageQuery
 
 education:
-  - school: University of Reading
-    field_of_study: Bachelor of Science in Information Technology
-    dates: 2002 - 2005
+  - school: Magic University
+    field_of_study: Bachelor of Science in Computer Science
+    dates: 2005 - 2010
 
 certificates:
   - title: Certificate in Advanced Spellcasting Techniques, Wizard Academy
