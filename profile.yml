@@ -2,8 +2,8 @@
 full_name: John Vu Nguyen
 location: South Ockendon, Essex UK
 summary: >
-I am an IT professional with more than 18 years of experience in Product and Programme Management. Throughout my career, I have successfully managed and delivered numerous high-profile and scalable products for prominent customers and clients. My expertise spans across Fintech, Communications, and Ed-tech sectors, where I have developed a deep analytical understanding of both operational and technical aspects in both B2B and B2C environments.
-I have a proven track record in leading small- and large-scale projects, often managing multiple concurrent initiatives within defined timelines and budgets. My experience includes effectively engaging with stakeholders at all levels, including C-level executives, to ensure alignment and successful outcomes.
+  I am an IT professional with more than 18 years of experience in Product and Programme Management. Throughout my career, I have successfully managed and delivered numerous high-profile and scalable products for prominent customers and clients. My expertise spans across Fintech, Communications, and Ed-tech sectors, where I have developed a deep analytical understanding of both operational and technical aspects in both B2B and B2C environments.
+  I have a proven track record in leading small- and large-scale projects, often managing multiple concurrent initiatives within defined timelines and budgets. My experience includes effectively engaging with stakeholders at all levels, including C-level executives, to ensure alignment and successful outcomes.
 
 
 contact_details:
@@ -24,7 +24,7 @@ experience:
       -	Directed customer documentation drafting for Payments, Payment Operation and Accounts services, enhancing user comprehension.
       - Main point of contact for Customer Success, Accounts, Delivery, and Operations teams, coordinating with key stakeholders both within Form3 and externally to ensure successful collaboration on cross-initiative priorities
       -	Implemented improved working practices between product and engineering teams, fostering trust and collaboration
-      - Managed the product migration of Form3’s Payment API from a single API to multiple core payment services as part of the company’s Multi-Cloud initiative
+      - Managed the product migration of Form3's Payment API from a single API to multiple core payment services as part of the company’s Multi-Cloud initiative
       - Oversaw the deployment of core services into GCP and other multi-cloud environments, facilitating initial onboarding of clients like Lloyds and NBS
       - Led the migration of core payment services to a multi-cloud environment, ensuring smooth transitions for FPS and COP customer services
       - Developed a strategic roadmap for key services in the business line, integrating multi-cloud support and setting fiscal year budgets
@@ -51,7 +51,7 @@ experience:
     bullet_points:
       - Led the product management function, overseeing a team of 5 Product Managers and collaborating cross-functionally with Client Delivery and Sales teams
         - Managed and mentored product managers within my team and offered guidance to junior members of Kidsloop
-      - Formed new product domain team - Factory Alliance, with the key vision and goal ‘Easy and Flexible Integration with Existing Platforms’
+      - Formed new product domain team - Factory Alliance, with the key vision and goal 'Easy and Flexible Integration with Existing Platforms'
         - Formulated the product vision, strategy and roadmap
         - Ensured good communication with leadership, across teams and peers
         - Built out the product function within this domain covering
@@ -60,7 +60,7 @@ experience:
           - Client Specific Integration
           - User/Account and Subscription Services
       - Leadership of the V1 Integration of the KidsLoop primary platform with the MyClassBoard School ERP system
-        - Successfully led the product team function in collaboration with Chrysalis India enabling up to two million students and teachers access to KidsLoop’s CLMS
+        - Successfully led the product team function in collaboration with Chrysalis India enabling up to two million students and teachers access to KidsLoop's CLMS
         - Managed and communicated with stakeholders and partners both internally and externally
 
     keywords:
@@ -83,9 +83,9 @@ experience:
     dates: 05/2020 - 08/2021
     location: Remote, London, UK
     bullet_points:
-      - Responsible for the customer payments experience and Azimo’s global rollout roadmap
-      - Formed a new Product and delivery team ‘Increase Funded Transfers & Internationalisation’
-        - Focused on reducing unfunded payments and expanding Azimo’s network in new markets by setting clear OKRs
+      - Responsible for the customer payments experience and Azimo's global rollout roadmap
+      - Formed a new Product and delivery team 'Increase Funded Transfers & Internationalisation'
+        - Focused on reducing unfunded payments and expanding Azimo's network in new markets by setting clear OKRs
         - Developed and managed the product roadmap, identifying and achieving key quarterly OKRs through data-driven planning
           - Leveraged key data and metrics to develop innovative features, improving user experience and engagement
         - Empowered the team to prototype and integrate new payment methods, resulting in increased transaction success rates
